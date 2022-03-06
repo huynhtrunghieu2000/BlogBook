@@ -1,5 +1,6 @@
 # final-project
-FE Winter Intership Final Project
+
+FE Intership Final Project - HVH Team
 
 ## Based
 

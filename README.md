@@ -1,6 +1,6 @@
 # final-project
 
-FE Intership Final Project - HVH Team
+FE Internship Final Project - HVH Team
 
 ## Based
 
